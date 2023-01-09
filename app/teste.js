@@ -33,4 +33,3 @@ console.log(n.sort())
 let p = ['Zequinha', 'anna', 'fábio', 'caio', 'Anna', 'lucas']
 console.log(p.sort())
 
-
