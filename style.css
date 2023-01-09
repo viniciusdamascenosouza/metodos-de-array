@@ -128,7 +128,6 @@ body {
   background-color: var(--text-description-color);
   margin-top: 1rem;
   text-align: center;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -147,7 +146,6 @@ body {
   background: linear-gradient(96.48deg, #002f52 36.3%, #326589 99.56%);
   margin-top: 1rem;
   text-align: center;
-
   display: flex;
   justify-content: center;
   align-items: center;
